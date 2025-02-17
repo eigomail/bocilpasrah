@@ -7,21 +7,21 @@ import { SITENAME } from "@/lib/constants";
 const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+    title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bocilpasrah.pages.dev"),
+    metadataBase: new URL("https://bokepjepang.pages.dev"),
     alternates: {
         canonical: `/`,
     },
     openGraph: {
-        title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
         description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         url: `/`,
         type: `website`,
     },
     verification: {
         google: 'tLfSpiu2wo8F0ezhY6E2JIsUw2hkyufiANgoLuJ4f0o',
-        yandex: 'd1bf5a65d54f32dd',
+        yandex: 'e84bf5adc5afb2a6',
     },
 };
 
@@ -37,24 +37,24 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bocilpasrah.pages.dev/favicon.ico",
-        "url": "https://bocilpasrah.pages.dev",
+        "logo": "https://bokepjepang.pages.dev/favicon.ico",
+        "url": "https://bokepjepang.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bocilpasrah.pages.dev"
+            "url":"https://bokepjepang.pages.dev"
             },
-            "foundingDate":"2024-10-17"
+            "foundingDate":"2024-06-10"
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bocilpasrah.pages.dev",
+        "url": "https://bokepjepang.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bocilpasrah.pages.dev/?q={search_term}", 
+          "target": "https://bokepjepang.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
